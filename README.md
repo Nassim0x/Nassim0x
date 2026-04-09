@@ -31,6 +31,18 @@ Hello! I'm a developer from France with a strong interest in **systems programmi
 
 👉 [View on GitHub](https://github.com/Nassim0x/nsearcher)
 
+### 🔐 .ns
+> Local file encryption CLI tool for Windows
+
+- 🔒 Encrypts files and folders into a single .ns container
+- 🛡️ Uses AES-256-GCM with Argon2id key derivation
+- 📦 Restores the original directory structure upon decryption
+- 💻 Designed for simple, lightweight usage directly from the Windows terminal
+
+**Tech Stack:** `C#` 
+
+👉 [View on GitHub](https://github.com/Nassim0x/.ns)
+
 ---
 
 ## 🧰 Skills & Technologies
